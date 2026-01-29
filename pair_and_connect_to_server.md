@@ -1,10 +1,10 @@
-# Pair and Connect to a Server
+# Соединение с сервером
 
-1. Make sure that you've setup the Credentials
-2. Login to the Rust server you want to play.
-3. Click `ESC` and then on `Rust+`.
-4. Click `PAIR WITH SERVER`.
+1. Убедитесь, что вы настроили учетные данные.
+2. Войдите на сервер Rust, на котором хотите играть.
+3. Нажмите `ESC`, а затем `Rust+`.
+4. Нажмите `СОЕДИНИТЬ С СЕРВЕРОМ`.
 
-5. When you've paired the server it should appear in the Discord Text Channel `servers`.
+5. После соединения сервер должен появиться в текстовом канале Discord `servers`.
 
-6. From there, you just click the `CONNECT` button and the bot will connect to the Rust server.
+6. Оттуда просто нажмите кнопку `ПОДКЛЮЧИТЬСЯ`, и бот подключится к серверу Rust.

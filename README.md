@@ -69,4 +69,4 @@
 https://discord.com/oauth2/authorize?client_id=1465390250766635345&permissions=8&integration_type=0&scope=bot
 
 ---
-*Бот использует неофициальный API Rust+ и требует настройки через официальное Rust+ Companion приложение. Работает только на официальных и некоторых community-серверах, поддерживающих Rust+.*
+*Бот использует официальный API Rust+ и требует настройки через официальное Rust+ Companion приложение. Работает на официальных, community-серверах и modded поддерживающих Rust+.*
